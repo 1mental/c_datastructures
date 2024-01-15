@@ -17,7 +17,7 @@ Stack (Depends on the LinkedList)
 
 # How to use?
 
-Just drag source and header files into your project and use them freely. You don't have to give me any credits. Use them as you wish.
+Just drag the source and header files into your project and use them freely. You don't have to give me any credits. Use them as you wish.
 
 
 I may create a documentation if I found many interactions on this repository.
