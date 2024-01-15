@@ -1,4 +1,4 @@
-// Coded with Love by Lexi ^_^ (@vpw3) On Instagram
+// Coded with Love by (@vpw3) On Instagram
 #include "list.h"
 
 
