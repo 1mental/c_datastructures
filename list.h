@@ -1,4 +1,4 @@
-// Full copyrights go to Lexi ^_*
+// Full copyrights go to 1mental
 #pragma once
 
 
